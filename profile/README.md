@@ -9,7 +9,7 @@
 
 ## ✨ About Us
 - 🏴‍☠️ 1st **Student-led Cybersecurity Team** of **Haridwar University**  
-- 📊 Ranked **#55 in India (2025)** on [CTFtime](https://ctftime.org/stats/2025/IN?page=2)  
+- 📊 Ranked **#48 in India (2025)** on [CTFtime](https://ctftime.org/stats/2025/IN?page=2)  
 - 🔒 Exploring **CTFs, Ethical Hacking & Security Research**  
 
 ---
